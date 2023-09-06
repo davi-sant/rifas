@@ -1,0 +1,11 @@
+.figure {
+    display: flex;
+    position: relative;
+    flex: 1.5;
+    background-color: white;
+    border-radius: 8px;
+}
+.figure-image {
+    border-radius: 8px;
+
+}
